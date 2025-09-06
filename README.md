@@ -80,13 +80,13 @@ plt.show()
 ## Output:
 ### Input Grayscale Image and Color Image
 
-<img width="675" height="473" alt="image" src="https://github.com/user-attachments/assets/970e894d-a2a0-4157-af1e-33dd93cc9e51" />
-
+<img width="430" height="420" alt="image" src="https://github.com/user-attachments/assets/7a55dfe7-e38d-4f55-8a84-d3d5e80dd4a5" />
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-<img width="430" height="420" alt="image" src="https://github.com/user-attachments/assets/7a55dfe7-e38d-4f55-8a84-d3d5e80dd4a5" />
+<img width="675" height="473" alt="image" src="https://github.com/user-attachments/assets/970e894d-a2a0-4157-af1e-33dd93cc9e51" />
+
 
 
 
